@@ -1,3 +1,6 @@
+# Enabling Efficient Assertion Inference
+
+This repo contains the source code and data set for the paper _Enabling Efficient Assertion Inference_, under review in the 34th IEEE International Symposium on Software Reliability Engineering (ISSRE 2023).
 
 ---
 
